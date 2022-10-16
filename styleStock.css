@@ -79,16 +79,13 @@
   }
   
   .baked-name {
-    text-decoration: uppercase;
+    text-transform: uppercase;
     padding: 0 .2rem;
   }
   
   .baked-price {
-    padding: 0 .5rem;
-  }
-  
-  .baked-price {
     font-weight: bold;
+    padding: 0 .5rem;
   }
   
   .positive {
